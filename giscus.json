@@ -1,4 +1,4 @@
 {
-  "origins": [ "https://faewulf.xyz", "http://localhost:5173"],
+  "origins": [ "https://faewulf.xyz"],
   "defaultCommentOrder": "newest"
 }
