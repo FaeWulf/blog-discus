@@ -1,6 +1,4 @@
 {
-  "origins": [
-    "https://faewulf.xyz",
-  ],
+  "origins": [ "https://faewulf.xyz" ],
   "defaultCommentOrder": "newest"
 }
